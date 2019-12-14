@@ -1,4 +1,0 @@
-git is a version control systemdsa.
-HRAD WORK.
-svn study
-git hard
